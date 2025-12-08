@@ -2,7 +2,7 @@
 name = "bitfield"
 version = "0.0.0"
 autotests = false
-edition = "2021"
+edition = "2024"
 publish = false
 
 [[test]]
